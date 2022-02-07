@@ -1,3 +1,2 @@
-# Recriando projetos freelancers reais
-
-evento: profissão programador python 2021
+# Recreating real freelance projects
+event: python programmer profession 2021
